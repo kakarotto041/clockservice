@@ -1,0 +1,15 @@
+
+
+
+
+
+## IDEA
+
+## CODE
+chatgtp
+
+## HOSTING
+https://github.com/kakarotto041/clockservice
+
+## Domain
+https://www.freenom.com/en/index.html
